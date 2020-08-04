@@ -1,5 +1,7 @@
 ### Hi there, I'm JiangZhiguo 👨‍💻
 
+<a href="https://github.com/Mr-jiangzhiguo?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Mr-jiangzhiguo" alt="Mr-jiangzhiguo" /></a>
+
 > a frontEnd engineer(Full Stack)
 
 #### 📍 Currently base at: Beijing, China
