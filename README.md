@@ -1,6 +1,6 @@
 ### Hi there, I'm JiangZhiguo 👨‍💻
 
-<a href="https://github.com/Mr-jiangzhiguo?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Mr-jiangzhiguo" alt="Mr-jiangzhiguo" /></a>
+<a href="https://github.com/daolou?tab=repositories"><img src="https://komarev.com/ghpvc/?username=daolou" alt="daolou" /></a>
 
 > a frontEnd engineer(Full Stack)
 
@@ -40,7 +40,7 @@
 
 #### 💡 Bolg:
 
-- [book](https://github.com/Mr-jiangzhiguo/book)
+- [book](https://github.com/daolou/book)
 - [juejin](https://juejin.im/user/5bbc81526fb9a05d07195d26)
 
 #### 🔖 Reading:
@@ -52,10 +52,10 @@
 
 #### ⭐ My GitHub Stats( Only Personal Public Contributions 😑 )
 
-[![Jiangzhiguo's github stats](https://github-readme-stats.vercel.app/api?username=Mr-jiangzhiguo&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiangzhiguo's github stats](https://github-readme-stats.vercel.app/api?username=daolou&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Mr-jiangzhiguo/Mr-jiangzhiguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daolou/daolou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
