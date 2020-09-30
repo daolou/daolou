@@ -1,6 +1,6 @@
 ### Hi there, I'm JiangZhiguo 👨‍💻
 
-<a href="https://github.com/daolou?tab=repositories"><img src="https://komarev.com/ghpvc/?username=daolou" alt="daolou" /></a>
+<a href="https://github.com/daolou?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Mr-jiangzhiguo" alt="Mr-jiangzhiguo" /></a>
 
 > a frontEnd engineer(Full Stack)
 
