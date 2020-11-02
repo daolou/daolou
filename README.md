@@ -8,7 +8,7 @@
 
 #### 📫 How to reach me: [📧](jiangzhiguo2010@live.com)
 
-#### 💼 Currently working as: Tomorrow Wormhole at [Newsdog](https://www.newsdogapp.com/)
+#### 💼 Currently working as: Alibaba at [Amap](https://amap.com/)
 
 #### 👨🏻‍💻 Currently working on:
 
