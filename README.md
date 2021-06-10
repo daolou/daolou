@@ -52,7 +52,11 @@
 
 #### ⭐ My GitHub Stats( Only Personal Public Contributions 😑 )
 
+[![Jiangzhiguo's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=daolou&show_icons=true&cache_seconds=1800&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 [![Jiangzhiguo's github stats](https://github-readme-stats.vercel.app/api?username=daolou&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **daolou/daolou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
