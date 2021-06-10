@@ -50,7 +50,7 @@
 - 深入理解计算机系统 第3版
 - 算法 第4版
 
-#### ⭐ My GitHub Stats( Only Personal Public Contributions 😑 )
+#### ⭐ My GitHub Stats
 
 [![Jiangzhiguo's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=daolou&show_icons=true&cache_seconds=1800&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
